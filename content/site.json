@@ -1,0 +1,45 @@
+{
+  "phone": "314-835-7719",
+  "instagram": "@kpremium.detailing",
+  "exterior": {
+    "price_cars": "$75",
+    "price_trucks": "$90",
+    "description": "Hand wash, wash and wax, tire shine, window clean, door jambs, and blow dry."
+  },
+  "interior": {
+    "price_cars": "$140",
+    "price_trucks": "$165",
+    "description": "Interior deep clean. Vacuum, surface wipe down, clean & condition leather/vinyl, interior windows, trim clean."
+  },
+  "full_detail": {
+    "price_cars": "$200",
+    "price_trucks": "$240",
+    "description": "Interior & exterior deep clean combined. Hand wash, wax protection, tire shine, windows, door jambs — the complete package."
+  },
+  "maintenance": {
+    "price_range": "$80 - $150",
+    "description": "Keep your vehicle looking its best year round. Perfect for regular upkeep."
+  },
+  "ceramic": {
+    "price": "+$70",
+    "description": "Long-lasting protection that enhances gloss and repels water, dirt, and grime. Lasts 3-6 months."
+  },
+  "boat_pricing": {
+    "small_wash": "$12",
+    "small_wax": "$15",
+    "mid_wash": "$14",
+    "mid_wax": "$17",
+    "large_wash": "$16",
+    "large_wax": "$19",
+    "pontoon": "$13",
+    "travel_fee": "$40"
+  },
+  "boat_addons": {
+    "trailer_wash": "$50",
+    "vinyl_seats": "$75+",
+    "engine_bay": "$50",
+    "ceramic_boat": "$99"
+  },
+  "about_text_1": "K-Premium Mobile Detailing is Kolton Post's passion turned profession. Every job — from a daily driver to a Porsche 911 to a lake boat — gets the same obsessive attention to detail.",
+  "about_text_2": "Based in the St. Louis area, K-Premium brings the detail shop to you. Small business, big standards — that's the K-Premium way."
+}
