@@ -1,5 +1,5 @@
 [build]
-  command = "npm install && npx tinacms build"
+  command = "npm install && npx tinacms build --skip-cloud-check"
   publish = "."
 
 [build.environment]
